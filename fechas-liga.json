@@ -1,0 +1,3109 @@
+[
+  [
+    {
+      "local": "Sarmiento (J)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Instituto",
+      "horario": "19:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Argentinos",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Rosario Central",
+      "horario": "21:15",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Newells",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Platense",
+      "horario": "21:15",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Huracan",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Def y Justicia",
+      "horario": "14:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Godoy Cruz",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Barracas Central",
+      "horario": "15:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Independiente",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Talleres (C)",
+      "horario": "17:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "River Plate",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Central Cba (SdE)",
+      "horario": "19:45",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Riestra",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "San Lorenzo",
+      "horario": "15:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Tigre",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Estudiantes (LP)",
+      "horario": "15:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Belgrano",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Racing Club",
+      "horario": "17:45",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Lanus",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Ind Rivadavia",
+      "horario": "17:45",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Atl Tucuman",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Boca Juniors",
+      "horario": "20:15",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Gimnasia (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Velez",
+      "horario": "19:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Union",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Banfield",
+      "horario": "21:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Viernes 10 de Mayo",
+        "Sábado 11 de Mayo",
+        "Domingo 12 de Mayo",
+        "Lunes 13 de Mayo"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Barracas Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Sarmiento (J)",
+      "horario": "20:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Ind Rivadavia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Godoy Cruz",
+      "horario": "15:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Def y Justicia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Gimnasia (LP)",
+      "horario": "17:45",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Talleres (C)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Atl Tucuman",
+      "horario": "17:45",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "River Plate",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Belgrano",
+      "horario": "20:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Platense",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Independiente",
+      "horario": "15:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Banfield",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Huracan",
+      "horario": "17:45",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Instituto",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Union",
+      "horario": "17:45",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Central Cba (SdE)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Boca Juniors",
+      "horario": "20:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Estudiantes (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Riestra",
+      "horario": "19:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "San Lorenzo",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Lanus",
+      "horario": "19:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Racing Club",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Argentinos",
+      "horario": "21:15",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Rosario Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Tigre",
+      "horario": "21:15",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Velez",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Newells",
+      "horario": "20:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Viernes 17 de Mayo",
+        "Sábado 18 de Mayo",
+        "Domingo 19 de Mayo",
+        "Lunes 20 de Mayo",
+        "Martes 21 de Mayo"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Riestra",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Rosario Central",
+      "horario": "15:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Tigre",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Racing Club",
+      "horario": "19:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Belgrano",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Central Cba (SdE)",
+      "horario": "21:15",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Lanus",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Estudiantes (LP)",
+      "horario": "21:15",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Argentinos",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "River Plate",
+      "horario": "15:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Godoy Cruz",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "San Lorenzo",
+      "horario": "17:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Newells",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Def y Justicia",
+      "horario": "17:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Boca Juniors",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Talleres (C)",
+      "horario": "20:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Huracan",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Instituto",
+      "horario": "15:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Sarmiento (J)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Ind Rivadavia",
+      "horario": "17:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Gimnasia (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Banfield",
+      "horario": "17:45",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Independiente",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Velez",
+      "horario": "20:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Union",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Barracas Central",
+      "horario": "19:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Atl Tucuman",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Platense",
+      "horario": "21:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Viernes 24 de Mayo",
+        "Sábado 25 de Mayo",
+        "Domingo 26 de Mayo",
+        "Lunes 27 de Mayo"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Racing Club",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Riestra",
+      "horario": "18:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Belgrano",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Argentinos",
+      "horario": "20:15",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Velez",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Atl Tucuman",
+      "horario": "20:15",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Platense",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Boca Juniors",
+      "horario": "14:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Central Cba (SdE)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Talleres (C)",
+      "horario": "18:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Rosario Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Lanus",
+      "horario": "18:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Instituto",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Gimnasia (LP)",
+      "horario": "20:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "River Plate",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Tigre",
+      "horario": "20:30",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Barracas Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Huracan",
+      "horario": "19:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "San Lorenzo",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Sarmiento (J)",
+      "horario": "19:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Def y Justicia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Independiente",
+      "horario": "21:15",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Estudiantes (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Godoy Cruz",
+      "horario": "21:15",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Banfield",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Newells",
+      "horario": "20:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Ind Rivadavia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Union",
+      "horario": "20:00",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Sábado 01 de Junio",
+        "Domingo 02 de Junio",
+        "Lunes 03 de Junio",
+        "Martes 04 de Junio"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Argentinos",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Central Cba (SdE)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Atl Tucuman",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Def y Justicia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Boca Juniors",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Velez",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Riestra",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "River Plate",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Gimnasia (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Barracas Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Godoy Cruz",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Rosario Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Huracan",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Ind Rivadavia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Independiente",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Banfield",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Lanus",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Racing Club",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Newells",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Instituto",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Sarmiento (J)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Estudiantes (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Talleres (C)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Platense",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Tigre",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Belgrano",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Union",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "San Lorenzo",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Miércoles 12 de Junio"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Argentinos",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Tigre",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Banfield",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Atl Tucuman",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Barracas Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Newells",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Belgrano",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Riestra",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Central Cba (SdE)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Platense",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Def y Justicia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Boca Juniors",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Estudiantes (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Union",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Ind Rivadavia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Gimnasia (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Instituto",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Independiente",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Racing Club",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Godoy Cruz",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "River Plate",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Lanus",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Rosario Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Sarmiento (J)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "San Lorenzo",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Huracan",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Velez",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Talleres (C)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 21 de Julio"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Atl Tucuman",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Instituto",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Boca Juniors",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Banfield",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Riestra",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Argentinos",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Gimnasia (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "San Lorenzo",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Godoy Cruz",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "River Plate",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Huracan",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Estudiantes (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Independiente",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Barracas Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Lanus",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Belgrano",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Newells",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Ind Rivadavia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Platense",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Velez",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Sarmiento (J)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Racing Club",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Talleres (C)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Def y Justicia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Tigre",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Central Cba (SdE)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Union",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Rosario Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Miércoles 24 de Julio"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Argentinos",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Lanus",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Banfield",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Talleres (C)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Barracas Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Atl Tucuman",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Belgrano",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Godoy Cruz",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Central Cba (SdE)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Velez",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Def y Justicia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Platense",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Estudiantes (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Gimnasia (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Ind Rivadavia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Independiente",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Instituto",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Boca Juniors",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Racing Club",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Union",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "River Plate",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Sarmiento (J)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Rosario Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Huracan",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "San Lorenzo",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Newells",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Tigre",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Riestra",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 28 de Julio"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Atl Tucuman",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Ind Rivadavia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Boca Juniors",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Barracas Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Riestra",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Central Cba (SdE)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Gimnasia (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Rosario Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Godoy Cruz",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Argentinos",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Huracan",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Racing Club",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Independiente",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "San Lorenzo",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Lanus",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Tigre",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Newells",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Estudiantes (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Platense",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Banfield",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Sarmiento (J)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Belgrano",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Talleres (C)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Instituto",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Union",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "River Plate",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Velez",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Def y Justicia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 04 de Agosto"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Argentinos",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Sarmiento (J)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Banfield",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Velez",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Barracas Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Talleres (C)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Belgrano",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Union",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Central Cba (SdE)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Def y Justicia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Riestra",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Lanus",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Estudiantes (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Independiente",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Ind Rivadavia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Boca Juniors",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Instituto",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Platense",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Racing Club",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Gimnasia (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "River Plate",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Huracan",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Rosario Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Newells",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "San Lorenzo",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Atl Tucuman",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Tigre",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Godoy Cruz",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 11 de Agosto"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Atl Tucuman",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Estudiantes (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Boca Juniors",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "San Lorenzo",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Def y Justicia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Banfield",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Gimnasia (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "River Plate",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Godoy Cruz",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Riestra",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Huracan",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Belgrano",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Independiente",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Rosario Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Lanus",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Central Cba (SdE)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Newells",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Racing Club",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Platense",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Barracas Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Sarmiento (J)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Tigre",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Talleres (C)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Ind Rivadavia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Union",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Argentinos",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Velez",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Instituto",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 18 de Agosto"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Argentinos",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Huracan",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Barracas Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Velez",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Belgrano",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Gimnasia (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Central Cba (SdE)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Banfield",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Riestra",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Sarmiento (J)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Estudiantes (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Boca Juniors",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Ind Rivadavia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Platense",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Instituto",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Def y Justicia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Lanus",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Godoy Cruz",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Racing Club",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Independiente",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "River Plate",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Newells",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Rosario Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Atl Tucuman",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "San Lorenzo",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Talleres (C)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Tigre",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Union",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 25 de Agosto"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Atl Tucuman",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Racing Club",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Banfield",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Instituto",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Boca Juniors",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Rosario Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Def y Justicia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Barracas Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Gimnasia (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Argentinos",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Godoy Cruz",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Central Cba (SdE)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Huracan",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Tigre",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Independiente",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "River Plate",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Newells",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Belgrano",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Platense",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "San Lorenzo",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Sarmiento (J)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Lanus",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Talleres (C)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Estudiantes (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Union",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Riestra",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Velez",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Ind Rivadavia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 01 de Septiembre"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Argentinos",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Newells",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Barracas Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Banfield",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Belgrano",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Independiente",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Central Cba (SdE)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Instituto",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Riestra",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Huracan",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Estudiantes (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Platense",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Godoy Cruz",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Sarmiento (J)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Ind Rivadavia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Def y Justicia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Lanus",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Union",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Racing Club",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Boca Juniors",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "River Plate",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Atl Tucuman",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Rosario Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Talleres (C)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "San Lorenzo",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Velez",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Tigre",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Gimnasia (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 15 de Septiembre"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Atl Tucuman",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Belgrano",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Banfield",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Ind Rivadavia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Boca Juniors",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "River Plate",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Def y Justicia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "San Lorenzo",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Gimnasia (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Riestra",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Huracan",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Lanus",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Independiente",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Argentinos",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Instituto",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Barracas Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Newells",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Tigre",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Platense",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Rosario Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Sarmiento (J)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Central Cba (SdE)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Talleres (C)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Racing Club",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Union",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Godoy Cruz",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Velez",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Estudiantes (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 22 de Septiembre"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Argentinos",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Atl Tucuman",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Belgrano",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Boca Juniors",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Central Cba (SdE)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Barracas Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Riestra",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Newells",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Estudiantes (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Def y Justicia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Godoy Cruz",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Huracan",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Ind Rivadavia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Instituto",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Lanus",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Gimnasia (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Racing Club",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Platense",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "River Plate",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Talleres (C)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Rosario Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Velez",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "San Lorenzo",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Banfield",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Sarmiento (J)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Union",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Tigre",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Independiente",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 29 de Septiembre"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Atl Tucuman",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Tigre",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Banfield",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Estudiantes (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Barracas Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Ind Rivadavia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Boca Juniors",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Argentinos",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Def y Justicia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Rosario Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Gimnasia (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Godoy Cruz",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Huracan",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Sarmiento (J)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Independiente",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Riestra",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Instituto",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "San Lorenzo",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Newells",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Lanus",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Platense",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "River Plate",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Talleres (C)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Belgrano",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Union",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Central Cba (SdE)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Velez",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Racing Club",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 06 de Octubre"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Argentinos",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Talleres (C)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Belgrano",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Platense",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Central Cba (SdE)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Ind Rivadavia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Riestra",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Atl Tucuman",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Estudiantes (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Instituto",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Godoy Cruz",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Newells",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Lanus",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Independiente",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Racing Club",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Def y Justicia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "River Plate",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Velez",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Rosario Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Banfield",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "San Lorenzo",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Barracas Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Sarmiento (J)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Gimnasia (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Tigre",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Boca Juniors",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Union",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Huracan",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 20 de Octubre"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Boca Juniors",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Riestra",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Def y Justicia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "River Plate",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Gimnasia (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Union",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Huracan",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Central Cba (SdE)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Independiente",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Godoy Cruz",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Ind Rivadavia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "San Lorenzo",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Instituto",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Rosario Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Newells",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Sarmiento (J)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Platense",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Argentinos",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Talleres (C)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Tigre",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Velez",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Belgrano",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Atl Tucuman",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Lanus",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Banfield",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Racing Club",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Barracas Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Estudiantes (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 27 de Octubre"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Argentinos",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Velez",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Belgrano",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Def y Justicia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Central Cba (SdE)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "San Lorenzo",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Riestra",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Talleres (C)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Estudiantes (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Ind Rivadavia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Godoy Cruz",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Atl Tucuman",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Huracan",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Gimnasia (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Lanus",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Boca Juniors",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Racing Club",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Instituto",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "River Plate",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Banfield",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Rosario Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Barracas Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Sarmiento (J)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Independiente",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Tigre",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Platense",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Union",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Newells",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 03 de Noviembre"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Atl Tucuman",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Sarmiento (J)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Banfield",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Belgrano",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Barracas Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Racing Club",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Boca Juniors",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Godoy Cruz",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Def y Justicia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Argentinos",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Gimnasia (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Central Cba (SdE)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Independiente",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Union",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Ind Rivadavia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Rosario Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Instituto",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "River Plate",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Newells",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Huracan",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Platense",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Riestra",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "San Lorenzo",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Estudiantes (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Talleres (C)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Lanus",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Velez",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Tigre",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Miércoles 06 de Noviembre"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Argentinos",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Banfield",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Belgrano",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Instituto",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Central Cba (SdE)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Estudiantes (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Riestra",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Velez",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Gimnasia (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Newells",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Godoy Cruz",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Talleres (C)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Huracan",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Independiente",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Lanus",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Platense",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Racing Club",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Ind Rivadavia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "River Plate",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Barracas Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Rosario Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "San Lorenzo",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Sarmiento (J)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Boca Juniors",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Tigre",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Def y Justicia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Union",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Atl Tucuman",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 10 de Noviembre"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Atl Tucuman",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Huracan",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Banfield",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Tigre",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Barracas Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Belgrano",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Boca Juniors",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Union",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Def y Justicia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Riestra",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Estudiantes (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Rosario Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Independiente",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Gimnasia (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Ind Rivadavia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "River Plate",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Instituto",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Argentinos",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Newells",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Central Cba (SdE)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Platense",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Godoy Cruz",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "San Lorenzo",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Racing Club",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Talleres (C)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Sarmiento (J)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Velez",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Lanus",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Miércoles 20 de Noviembre"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Argentinos",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Barracas Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Belgrano",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Ind Rivadavia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Central Cba (SdE)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Rosario Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Riestra",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Banfield",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Gimnasia (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Atl Tucuman",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Godoy Cruz",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Velez",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Huracan",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Boca Juniors",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Lanus",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Def y Justicia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Newells",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Independiente",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Racing Club",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Estudiantes (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "River Plate",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "San Lorenzo",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Sarmiento (J)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Platense",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Tigre",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Instituto",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Union",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Talleres (C)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 24 de Noviembre"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Atl Tucuman",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Newells",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Banfield",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Lanus",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Barracas Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Tigre",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Boca Juniors",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Gimnasia (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Def y Justicia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Godoy Cruz",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Estudiantes (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "River Plate",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Independiente",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Central Cba (SdE)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Ind Rivadavia",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Argentinos",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Instituto",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Riestra",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Platense",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Union",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Rosario Central",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Racing Club",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "San Lorenzo",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Belgrano",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Talleres (C)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Huracan",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Velez",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Sarmiento (J)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 01 de Diciembre"
+      ]
+    }
+  ],
+  [
+    {
+      "local": "Argentinos",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "San Lorenzo",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Belgrano",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Estudiantes (LP)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Central Cba (SdE)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Racing Club",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Riestra",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Barracas Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Gimnasia (LP)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Talleres (C)",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Godoy Cruz",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Banfield",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Huracan",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Platense",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Independiente",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Atl Tucuman",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Lanus",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Instituto",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Newells",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Boca Juniors",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "River Plate",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Rosario Central",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Sarmiento (J)",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Def y Justicia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Tigre",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Ind Rivadavia",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "local": "Union",
+      "golesLocal": "",
+      "golesVisitante": "",
+      "visitante": "Velez",
+      "horario": "A conf.",
+      "diaPart": "A confirmar"
+    },
+    {
+      "diasAjugar": [
+        "Domingo 08 de Diciembre"
+      ]
+    }
+  ]
+]
